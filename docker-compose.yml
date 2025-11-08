@@ -1,0 +1,6 @@
+services:
+  mealiemcp.server:
+    image: ${DOCKER_REGISTRY-}mealiemcpserver
+    build:
+      context: .
+      dockerfile: src/MealieMCP.Server/Dockerfile

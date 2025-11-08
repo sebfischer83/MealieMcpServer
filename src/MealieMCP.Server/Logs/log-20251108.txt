@@ -1,0 +1,124 @@
+[2025-11-08 20:15:23.407 +00:00 INF] Starting up
+[2025-11-08 20:15:57.291 +00:00 INF] HTTP GET / responded 400 in 27.2690 ms
+[2025-11-08 20:15:57.413 +00:00 INF] HTTP GET /favicon.ico responded 404 in 0.2819 ms
+[2025-11-08 20:16:17.615 +00:00 INF] HTTP OPTIONS / responded 204 in 1.8572 ms
+[2025-11-08 20:16:17.699 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'initialize' request handler called.
+[2025-11-08 20:16:17.704 +00:00 INF] Server (MealieMCP.Server 1.0.0.0), Client (inspector-client 0.17.2) method 'initialize' request handler completed.
+[2025-11-08 20:16:17.718 +00:00 INF] HTTP POST / responded 200 in 99.7414 ms
+[2025-11-08 20:16:17.720 +00:00 INF] HTTP OPTIONS / responded 204 in 0.0949 ms
+[2025-11-08 20:16:17.725 +00:00 INF] HTTP POST / responded 202 in 2.1476 ms
+[2025-11-08 20:16:17.728 +00:00 INF] HTTP GET / responded 400 in 0.3316 ms
+[2025-11-08 20:16:17.731 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'logging/setLevel' request handler called.
+[2025-11-08 20:16:17.735 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'logging/setLevel' request handler completed.
+[2025-11-08 20:16:17.736 +00:00 INF] HTTP POST / responded 200 in 6.1116 ms
+[2025-11-08 20:16:17.964 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'initialize' request handler called.
+[2025-11-08 20:16:17.965 +00:00 INF] Server (MealieMCP.Server 1.0.0.0), Client (inspector-client 0.17.2) method 'initialize' request handler completed.
+[2025-11-08 20:16:17.966 +00:00 INF] HTTP POST / responded 200 in 3.1533 ms
+[2025-11-08 20:16:17.970 +00:00 INF] HTTP POST / responded 202 in 0.4972 ms
+[2025-11-08 20:16:17.973 +00:00 INF] HTTP GET / responded 400 in 0.1846 ms
+[2025-11-08 20:16:17.974 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'logging/setLevel' request handler called.
+[2025-11-08 20:16:17.975 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'logging/setLevel' request handler completed.
+[2025-11-08 20:16:17.978 +00:00 INF] HTTP POST / responded 200 in 5.1351 ms
+[2025-11-08 20:16:18.670 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'initialize' request handler called.
+[2025-11-08 20:16:18.672 +00:00 INF] Server (MealieMCP.Server 1.0.0.0), Client (inspector-client 0.17.2) method 'initialize' request handler completed.
+[2025-11-08 20:16:18.673 +00:00 INF] HTTP POST / responded 200 in 3.3398 ms
+[2025-11-08 20:16:18.676 +00:00 INF] HTTP POST / responded 202 in 0.3148 ms
+[2025-11-08 20:16:18.678 +00:00 INF] HTTP GET / responded 400 in 0.1443 ms
+[2025-11-08 20:16:18.678 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'logging/setLevel' request handler called.
+[2025-11-08 20:16:18.687 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'logging/setLevel' request handler completed.
+[2025-11-08 20:16:18.688 +00:00 INF] HTTP POST / responded 200 in 10.2426 ms
+[2025-11-08 21:01:57.875 +00:00 INF] Starting up
+[2025-11-08 21:02:17.804 +00:00 INF] HTTP GET / responded 400 in 27.1226 ms
+[2025-11-08 21:02:17.934 +00:00 INF] HTTP GET /favicon.ico responded 404 in 4.6861 ms
+[2025-11-08 21:02:27.121 +00:00 INF] HTTP OPTIONS / responded 204 in 1.4876 ms
+[2025-11-08 21:02:27.192 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'initialize' request handler called.
+[2025-11-08 21:02:27.196 +00:00 INF] Server (MealieMCP.Server 1.0.0.0), Client (inspector-client 0.17.2) method 'initialize' request handler completed.
+[2025-11-08 21:02:27.207 +00:00 INF] HTTP POST / responded 200 in 83.3307 ms
+[2025-11-08 21:02:27.210 +00:00 INF] HTTP OPTIONS / responded 204 in 0.1403 ms
+[2025-11-08 21:02:27.213 +00:00 INF] HTTP POST / responded 202 in 1.8550 ms
+[2025-11-08 21:02:27.217 +00:00 INF] HTTP GET / responded 400 in 0.3176 ms
+[2025-11-08 21:02:27.217 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'logging/setLevel' request handler called.
+[2025-11-08 21:02:27.224 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'logging/setLevel' request handler completed.
+[2025-11-08 21:02:27.225 +00:00 INF] HTTP POST / responded 200 in 8.6448 ms
+[2025-11-08 21:02:32.946 +00:00 INF] HTTP OPTIONS / responded 204 in 0.1308 ms
+[2025-11-08 21:02:32.949 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/list' request handler called.
+[2025-11-08 21:02:32.955 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/list' request handler completed.
+[2025-11-08 21:02:32.957 +00:00 INF] HTTP POST / responded 200 in 7.9395 ms
+[2025-11-08 21:02:37.095 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/call' request handler called.
+[2025-11-08 21:03:06.459 +00:00 INF] Starting up
+[2025-11-08 21:03:11.425 +00:00 INF] HTTP OPTIONS / responded 204 in 1.4127 ms
+[2025-11-08 21:03:11.522 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/call' request handler called.
+[2025-11-08 21:03:11.582 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/call' request handler completed.
+[2025-11-08 21:03:11.594 +00:00 INF] HTTP POST / responded 200 in 150.6542 ms
+[2025-11-08 21:03:14.072 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/call' request handler called.
+[2025-11-08 21:03:14.073 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/call' request handler completed.
+[2025-11-08 21:03:14.079 +00:00 INF] HTTP POST / responded 200 in 8.2214 ms
+[2025-11-08 21:03:14.803 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/call' request handler called.
+[2025-11-08 21:03:14.805 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/call' request handler completed.
+[2025-11-08 21:03:14.806 +00:00 INF] HTTP POST / responded 200 in 3.5371 ms
+[2025-11-08 21:15:08.268 +00:00 INF] Starting up
+[2025-11-08 21:15:19.296 +00:00 INF] HTTP OPTIONS / responded 204 in 1.5381 ms
+[2025-11-08 21:15:19.400 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'initialize' request handler called.
+[2025-11-08 21:15:19.405 +00:00 INF] Server (MealieMCP.Server 1.0.0.0), Client (inspector-client 0.17.2) method 'initialize' request handler completed.
+[2025-11-08 21:15:19.417 +00:00 INF] HTTP POST / responded 200 in 102.9445 ms
+[2025-11-08 21:15:19.424 +00:00 INF] HTTP OPTIONS / responded 204 in 0.3555 ms
+[2025-11-08 21:15:19.429 +00:00 INF] HTTP POST / responded 202 in 2.1638 ms
+[2025-11-08 21:15:19.432 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'logging/setLevel' request handler called.
+[2025-11-08 21:15:19.438 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'logging/setLevel' request handler completed.
+[2025-11-08 21:15:19.439 +00:00 INF] HTTP POST / responded 200 in 7.3462 ms
+[2025-11-08 21:15:19.441 +00:00 INF] HTTP GET / responded 400 in 8.4720 ms
+[2025-11-08 21:15:25.020 +00:00 INF] HTTP OPTIONS / responded 204 in 0.0743 ms
+[2025-11-08 21:15:25.023 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/call' request handler called.
+[2025-11-08 21:15:52.148 +00:00 ERR] "search_receipe" threw an unhandled exception.
+System.NotSupportedException: The 'file' scheme is not supported.
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.Kiota.Http.HttpClientLibrary.HttpClientRequestAdapter.GetHttpResponseMessageAsync(RequestInformation requestInfo, CancellationToken cancellationToken, Activity activityForAttributes, String claims, Boolean isStreamResponse)
+   at Microsoft.Kiota.Http.HttpClientLibrary.HttpClientRequestAdapter.SendAsync[ModelType](RequestInformation requestInfo, ParsableFactory`1 factory, Dictionary`2 errorMapping, CancellationToken cancellationToken)
+   at MealiMCP.Server.Api.Api.Recipes.RecipesRequestBuilder.GetAsync(Action`1 requestConfiguration, CancellationToken cancellationToken) in C:\Development\Meali-MCP\src\MealieMCP.Server\MealiClient\Api\Recipes\RecipesRequestBuilder.cs:line 112
+   at MealieMCP.Server.Tools.ReceipeTools.SearchReceipeAsync(String query) in C:\Development\Meali-MCP\src\MealieMCP.Server\Tools\ReceipeTools.cs:line 21
+   at Microsoft.Extensions.AI.AIFunctionFactory.ReflectionAIFunctionDescriptor.<>c__DisplayClass35_1.<<GetReturnParameterMarshaller>b__9>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.Extensions.AI.AIFunctionFactory.ReflectionAIFunction.InvokeCoreAsync(AIFunctionArguments arguments, CancellationToken cancellationToken)
+   at Microsoft.Extensions.AI.AIFunctionFactory.ReflectionAIFunction.InvokeCoreAsync(AIFunctionArguments arguments, CancellationToken cancellationToken)
+   at ModelContextProtocol.Server.AIFunctionMcpServerTool.InvokeAsync(RequestContext`1 request, CancellationToken cancellationToken)
+   at ModelContextProtocol.AspNetCore.AuthorizationFilterSetup.<>c__DisplayClass8_0.<<CheckCallToolFilter>b__1>d.MoveNext()
+--- End of stack trace from previous location ---
+   at ModelContextProtocol.Server.McpServerImpl.<>c__DisplayClass50_2.<<ConfigureTools>b__5>d.MoveNext()
+[2025-11-08 21:15:52.166 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/call' request handler completed.
+[2025-11-08 21:15:52.168 +00:00 INF] HTTP POST / responded 200 in 27145.1521 ms
+[2025-11-08 21:15:53.735 +00:00 INF] HTTP OPTIONS / responded 204 in 0.1026 ms
+[2025-11-08 21:15:53.738 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/call' request handler called.
+[2025-11-08 21:18:25.289 +00:00 INF] Starting up
+[2025-11-08 21:18:26.495 +00:00 INF] HTTP OPTIONS / responded 204 in 1.4759 ms
+[2025-11-08 21:18:26.580 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'initialize' request handler called.
+[2025-11-08 21:18:26.585 +00:00 INF] Server (MealieMCP.Server 1.0.0.0), Client (inspector-client 0.17.2) method 'initialize' request handler completed.
+[2025-11-08 21:18:26.595 +00:00 INF] HTTP POST / responded 200 in 85.3883 ms
+[2025-11-08 21:18:26.621 +00:00 INF] HTTP OPTIONS / responded 204 in 0.3830 ms
+[2025-11-08 21:18:26.625 +00:00 INF] HTTP POST / responded 202 in 2.0093 ms
+[2025-11-08 21:18:26.629 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'logging/setLevel' request handler called.
+[2025-11-08 21:18:26.635 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'logging/setLevel' request handler completed.
+[2025-11-08 21:18:26.637 +00:00 INF] HTTP POST / responded 200 in 8.5163 ms
+[2025-11-08 21:18:26.638 +00:00 INF] HTTP GET / responded 400 in 9.4084 ms
+[2025-11-08 21:18:30.718 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/call' request handler called.
+[2025-11-08 21:18:31.124 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/call' request handler completed.
+[2025-11-08 21:18:31.126 +00:00 INF] HTTP POST / responded 200 in 407.9495 ms
+[2025-11-08 21:22:52.034 +00:00 INF] Starting up
+[2025-11-08 21:23:02.872 +00:00 INF] HTTP OPTIONS / responded 204 in 3.1451 ms
+[2025-11-08 21:23:03.008 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'initialize' request handler called.
+[2025-11-08 21:23:03.013 +00:00 INF] Server (MealieMCP.Server 1.0.0.0), Client (inspector-client 0.17.2) method 'initialize' request handler completed.
+[2025-11-08 21:23:03.023 +00:00 INF] HTTP POST / responded 200 in 124.5127 ms
+[2025-11-08 21:23:03.026 +00:00 INF] HTTP OPTIONS / responded 204 in 0.2165 ms
+[2025-11-08 21:23:03.030 +00:00 INF] HTTP POST / responded 202 in 1.9189 ms
+[2025-11-08 21:23:03.034 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'logging/setLevel' request handler called.
+[2025-11-08 21:23:03.042 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'logging/setLevel' request handler completed.
+[2025-11-08 21:23:03.044 +00:00 INF] HTTP POST / responded 200 in 10.4757 ms
+[2025-11-08 21:23:03.046 +00:00 INF] HTTP GET / responded 400 in 12.0214 ms
+[2025-11-08 21:23:05.724 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/list' request handler called.
+[2025-11-08 21:23:05.732 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/list' request handler completed.
+[2025-11-08 21:23:05.733 +00:00 INF] HTTP POST / responded 200 in 9.0379 ms
+[2025-11-08 21:23:16.109 +00:00 INF] HTTP OPTIONS / responded 204 in 0.1068 ms
+[2025-11-08 21:23:16.112 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/call' request handler called.
+[2025-11-08 21:23:16.463 +00:00 INF] Server (MealieMCP.Server 1.0.0.0) method 'tools/call' request handler completed.
+[2025-11-08 21:23:16.465 +00:00 INF] HTTP POST / responded 200 in 353.5263 ms
