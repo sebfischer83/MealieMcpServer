@@ -1,3 +1,4 @@
+using MealieMCP.Server.Authentication;
 using MealieMCP.Server.Config;
 using MealieMCP.Server.Tools;
 using Microsoft.Extensions.Options;
@@ -60,6 +61,24 @@ namespace MealieMCP.Server
             builder.Services.AddTransient<MealiClientFactory>();
             builder.Services.AddTransient(sp => sp.GetRequiredService<MealiClientFactory>().GetClient());
 
+            builder.Services.Configure<ApiTokenAuthenticationOptions>(builder.Configuration.GetSection("ApiTokenAuthentication"));
+
+            builder.Services
+                .AddAuthentication(options =>
+                {
+                    options.DefaultAuthenticateScheme = ApiTokenAuthenticationDefaults.AuthenticationScheme;
+                    options.DefaultChallengeScheme = ApiTokenAuthenticationDefaults.AuthenticationScheme;
+                })
+                .AddScheme<ApiTokenAuthenticationOptions, ApiTokenAuthenticationHandler>(
+                    ApiTokenAuthenticationDefaults.AuthenticationScheme,
+                    _ => { });
+
+            builder.Services.AddAuthorization(options =>
+            {
+                options.AddPolicy(ApiTokenAuthenticationDefaults.PolicyName, policy =>
+                    policy.RequireAuthenticatedUser());
+            });
+
             builder.Services.AddControllers();
             builder.Services.AddMcpServer().WithHttpTransport().WithTools<ReceipeTools>();
 
@@ -74,10 +93,11 @@ namespace MealieMCP.Server
                 .AllowCredentials()
                 .SetIsOriginAllowed(_ => true));
 
-            app.MapMcp();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
+            var mcpEndpoint = app.MapMcp();
+            mcpEndpoint.RequireAuthorization(ApiTokenAuthenticationDefaults.PolicyName);
 
             app.MapControllers();
 

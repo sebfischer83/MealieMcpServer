@@ -20,6 +20,13 @@ Build & Run (lokal)
 2. Server starten:
    - `dotnet run --project src/MealieMCP.Server`
 
+Authentifizierung
+-----------------
+- Die HTTP‑Schnittstelle der MCP‑Tools kann mit API‑Tokens geschützt werden.
+- Konfiguriere dazu im `appsettings.json` (oder via Umgebungsvariablen, z. B. `MealiMcp__ApiTokenAuthentication__Tokens__0`) eine Liste gültiger Tokens.
+- Clients senden das Token entweder als `Authorization: Bearer <token>`, `X-Api-Token: <token>` oder `?access_token=<token>`.
+- Sind keine Tokens konfiguriert, bleibt der Zugriff wie bisher offen.
+
 Docker
 - Zum Starten mit Docker Compose: `docker compose up --build`
 
