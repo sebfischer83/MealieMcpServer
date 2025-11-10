@@ -149,6 +149,8 @@ internal static class MappingHelpers
                 return ExtractFromJsonElement(jsonElement);
             case IDictionary<string, object> dictionary:
                 return ExtractStringFromAdditionalData(dictionary);
+            case IFormattable formattable:
+                return formattable.ToString(null, CultureInfo.InvariantCulture);
             case IEnumerable enumerable:
                 foreach (var item in enumerable)
                 {
@@ -163,6 +165,7 @@ internal static class MappingHelpers
             default:
                 return value.ToString();
         }
+    }
     }
 
     private static string? ExtractFromJsonElement(JsonElement element)
